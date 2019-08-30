@@ -1,0 +1,26 @@
+form {
+  margin: 0 auto;
+  width: 600px;
+  padding: 5px;
+  border: 3px solid;
+}
+body 
+* {box-sizing: border-box;
+background-color: lightgray;}
+
+input[type=text], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid;
+  
+}
+
+input[type=submit] {
+  background-color: greenyellow;
+  padding: 12px 20px 12px 20px;
+  cursor: pointer;
+}
+h1 {
+  margin: 0 auto;
+  width: 600px;
+border: 1px;}
