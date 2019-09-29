@@ -39,10 +39,10 @@ h2 {
 }
 .div1 {
   float: left;
-  width: 140px;
+  width: 200px;
   height: 50px;
   background: #cccccc;
-  color: white;
+  color: red;
   text-align: center;
   margin-left: 375px;
   font-family: 'Georgia', Times, Times New Roman, serif;
