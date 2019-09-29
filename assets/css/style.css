@@ -89,39 +89,27 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 .portfolio {
-  width: 530px;
-  height: 650px;
-  margin: 0 auto;
-  padding: 10px;
+  margin-left: 240px;
+  margin-right: 240px;
+  height: 500px;
+
+  padding: 20px;
   border: 1px solid #dddddd;
   color: #777777;
   background: #ffffff;
 }
-.pic1 {
+div.portfolio img {
+  width: 100%;
+  height: auto;
+}
+div.pic1 img{
 float : left;
 padding: 10px;
+height: 200px;
+width: 200px;
 
 }
-.pic2 {
-float: left;
-padding: 10px;
-}
-.pic3 {
-float: left;
-padding: 10px;
 
-}
-.pic4 {
-float: left;
-padding: 10px;
-
-}
-.pic5 {
-float: left;
-padding: 10px;
-
-
-}
 
 
 
